@@ -1,0 +1,12 @@
+//-----------------------------------------------------------------------------
+// README
+// Shridhk John
+// shjohn@ucsc.edu
+// Pa2
+// 7/9/17
+//-----------------------------------------------------------------------------
+README
+makefile
+Search.java ( determines whether or not the target word is amongst the words in the input file,
+	      prints a message to stdout stating whether or not the target was found, AND 
+	      states the line on which the target word was found)

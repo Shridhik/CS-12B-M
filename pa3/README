@@ -1,0 +1,20 @@
+//-----------------------------------------------------------------------------
+// README
+// Shridhik John
+// shjohn@unix.ucsc.edu
+// pa3
+// README file for PA3
+//-----------------------------------------------------------------------------
+
+defined my Node class to contain two String fields instead of a single data field withing Dictionary.java
+
+
+Turned in :
+README
+Dictionary.java created by me
+DictionaryTest.java created by me
+DuplicateKeyException.java created by me
+KeyNotFoundException.java created by me
+DictionaryInterface.java unchanged
+DictionaryClient.java unchanged
+Makefile altered at my discretion

@@ -1,0 +1,15 @@
+//////////////////////////
+// README
+// pa5
+// Shridhik John
+// shjohn@ucsc.edu
+// a readme file for PA5
+/////////////////////////
+
+Submitted Files:
+README
+Dictionary.c
+Dictionary.h
+DictionaryTest.c
+DictionaryClient.c
+Makefile

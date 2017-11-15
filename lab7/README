@@ -1,0 +1,20 @@
+//////////////////////////////
+// README
+// shjohn@csc.edu
+// Shridhik John
+// lab7
+// README file for lab7
+/////////////////////////////
+
+SUBMITTED: 
+
+WRITTEN BY ME: 
+Dictionary.java
+Makefile
+README
+
+GIVEN:
+DictionaryInterface.java
+DuplicateKeyException.java
+KeyNotFoundException.java
+DictionaryClient.java
